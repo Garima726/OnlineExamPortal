@@ -1,0 +1,35 @@
+body{
+	font-family: Arial;
+	color: black;
+	background: url(Wallpaper1.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+#Header{
+	width: 100%;
+	text-align: center;
+}
+#content{
+    margin: auto;
+    padding: 20px;
+    opacity: 80%;
+    width: 300px;
+	color: #00004d;
+	background-color: white;
+}
+input[type="text"]{
+	padding :10px;
+}
+button{
+	margin-top: 25px;
+	padding: 10px;
+	border: 0;
+	border-radius: 15px;
+}
+button:hover{
+	box-shadow: 0 0 10px Grey;
+}
+a{
+	color:black;
+}
